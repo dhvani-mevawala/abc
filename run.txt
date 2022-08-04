@@ -1,0 +1,1 @@
+/predict?sepal_length=2&sepal_width=1&petal_length=3&petal_width=2
